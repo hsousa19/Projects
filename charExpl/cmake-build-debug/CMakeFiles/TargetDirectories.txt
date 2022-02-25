@@ -1,0 +1,3 @@
+C:/Users/6638851/Desktop/UC/2Semester/PPP/Projects/charExpl/cmake-build-debug/CMakeFiles/charExpl.dir
+C:/Users/6638851/Desktop/UC/2Semester/PPP/Projects/charExpl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/6638851/Desktop/UC/2Semester/PPP/Projects/charExpl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

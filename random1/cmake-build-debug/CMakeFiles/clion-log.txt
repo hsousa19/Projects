@@ -1,0 +1,10 @@
+"C:\Users\6638851\AppData\Local\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/6638851/AppData/Local/JetBrains/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja C:\Users\6638851\Desktop\UC\2Semester\PPP\Projects\random1
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/6638851/AppData/Local/JetBrains/CLion 2021.3.3/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/6638851/Desktop/UC/2Semester/PPP/Projects/random1/cmake-build-debug
